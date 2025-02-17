@@ -1,2 +1,2 @@
-const strong = "stronger";
-const strong2 = "stronger";
+const w = "w";
+const w2 = "w2";
