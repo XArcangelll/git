@@ -1,7 +1,7 @@
-const w33 = "w33";
+const w33 = "zzz";
 
 const functionRest = () => {
-    console.log("w33");
+    console.log("zzz");
 }
 
 functionRest();
