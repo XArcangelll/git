@@ -1,7 +1,7 @@
-const strong13 = "stronger";
+const w = "w";
 
 const functionRest = () => {
-    console.log("stronger");
+    console.log("w");
 }
 
 functionRest();
