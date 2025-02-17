@@ -1,7 +1,7 @@
-const archivo321312 = "arc444444444444444";
+const strong13 = "stronger";
 
 const functionRest = () => {
-    console.log("T4444444444e");
+    console.log("stronger");
 }
 
 functionRest();

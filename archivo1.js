@@ -1,2 +1,2 @@
-const aea321321 = "t3214444444444";
-const aea2321 = "t321344444";
+const strong = "stronger";
+const strong2 = "stronger";
